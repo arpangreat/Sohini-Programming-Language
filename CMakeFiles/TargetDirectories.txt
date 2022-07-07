@@ -1,0 +1,3 @@
+/home/arpangreat/Sohini-Programming-Language/CMakeFiles/spl.dir
+/home/arpangreat/Sohini-Programming-Language/CMakeFiles/edit_cache.dir
+/home/arpangreat/Sohini-Programming-Language/CMakeFiles/rebuild_cache.dir
